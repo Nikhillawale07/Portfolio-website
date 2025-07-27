@@ -1,2 +1,2 @@
-# Portfolio-website
-Nikhil Lawale Portfolio Website
+# Personal Portfolio Website using HTML, CSS, and JavaScript
+
